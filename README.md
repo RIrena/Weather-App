@@ -1,4 +1,6 @@
 # WeatherAlert ⛅
+## Live demo: https://weatherforecast4all-app.netlify.app/#
+
 ## Idea ☄
 The idea of WeatherAlert is to show the following days' weather so that people can see what the weather is in advance and plan accordingly. The application should be easy to use and should give more data on the weather like humidity and wind speed. The app should also calculate which is the coldest, warmest time, average highest, lowest, and average humidity as well as wind speed. The application is planned to be a web application and it should be built for desktop only.
 
